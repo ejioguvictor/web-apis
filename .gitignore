@@ -1,0 +1,8 @@
+node_modules/
+npm-debug.log
+.DS_Store
+__MACOSX/
+.github/
+babel.config.js
+tsconfig.json
+yarn.lock
